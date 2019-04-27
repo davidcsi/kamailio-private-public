@@ -1,2 +1,2 @@
-# kamailio-private-public
-Kamailio config for public/private proxy with rtpengine
+# kamailio-public-private
+Configuration for a Kamailio in a Public/Private network.
