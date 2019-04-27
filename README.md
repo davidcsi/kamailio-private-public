@@ -68,7 +68,7 @@ cd rtpengine
 dpkg-checkbuilddeps
 dpkg-buildpackage
 ```
-You should get not errors back.
+You should get no errors back.
 
 ```
 cd ..
